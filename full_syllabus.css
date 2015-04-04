@@ -1,0 +1,111 @@
+body {
+  margin: 100px auto;
+  width: 960px;
+  font-family: Georgia, serif;
+
+}
+
+h1 {
+  font-size: 48px;
+  font-style: bold;
+  letter-spacing: 10px;
+  text-align: center;
+}
+
+h2 {
+  color: black;
+  text-transform: uppercase;
+  border-top: 2px black solid;
+  border-bottom: 1px black solid;
+}
+
+p {
+  font-size: 18px;
+  letter-spacing: 1px;
+  line-height: 22px;
+}
+
+dt {
+  font-size: 18px;
+  letter-spacing: 1px;
+  line-height: 22px;
+  float: left;
+  clear: left;
+  width: 13%;
+}
+
+dd {
+  font-size: 18px;
+  letter-spacing: 1px;
+  line-height: 22px;
+  width: 80%;
+  float: right;
+
+}
+
+ol {
+  font-size: 18px;
+  letter-spacing: 1px;
+  line-height: 22px;
+}
+
+blockquote {
+  text-align: right;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+}
+
+th {
+  background-color: black;
+  color: white;
+  font-weight: lighter;
+  border-style: solid;
+  border-color: gray;
+  border-width: 1px;
+}
+
+.schedule {
+  width: 900px;
+  margin: auto;
+  border-collapse: collapse;
+  font-family: "Courier New", Courier, monospace;
+
+}
+
+td {
+  background-color: white;
+  color: black;
+  font-weight: normal;
+  border-style: solid;
+  border-color: gray;
+  border-width: 1px;
+}
+
+.subheader {
+  font-style: italic;
+  text-align: center;
+  letter-spacing: 2px;
+}
+
+.quotation {
+  font-style: italic;
+  text-align: justify;
+  text-transform: none;
+  letter-spacing: 1px;
+}
+
+.clearfix {
+  clear: both;
+}
+
+.source {
+  text-align: center;
+}
+
+.h2subheader {
+  text-transform: none;
+  font-style: italic;
+  font-size: 16px;
+  font-weight: lighter;
+}
+
